@@ -156,3 +156,7 @@ button {
   outline: none;
   border: 5px solid var(--secondary-color);
 }
+
+.waiting {
+  text-align: center;
+}
